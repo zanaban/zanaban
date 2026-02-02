@@ -6,10 +6,10 @@ I care about clear structure, thoughtful UX, and continuous learning.
 ---
 
 ### 🛠️ Tools & Technologies
-**Languages:** Python, Flask, C, JavaScript, SQL
-**Web:** HTML, CSS, React, Angular 
-**Databases:**  SQLite
-**Tools:** Git, GitHub, VS Code, Power BI etc.
+- **Languages:** Python, Flask, C, JavaScript, SQL
+- **Web:** HTML, CSS, React, Angular 
+- **Databases:**  SQLite
+- **Tools:** Git, GitHub, VS Code, Power BI etc.
 
 ---
 
