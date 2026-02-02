@@ -23,6 +23,4 @@ I care about clear structure, thoughtful UX, and continuous learning.
 Always happy to collaborate or get feedback!
 - LinkedIn: 
 
----
 
-> _“Turning ideas into code. Learning something new every day.”_
