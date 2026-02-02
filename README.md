@@ -1,16 +1,28 @@
 ## Hi there 👋
+I’m an **application developer** turning ideas into clean, usable, and reliable software.  
+I care about clear structure, thoughtful UX, and continuous learning.
 
-<!--
-**zanaban/zanaban** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tools & Technologies
+**Languages:** Python, Flask, C, JavaScript, SQL
+**Web:** HTML, CSS, React, Angular 
+**Databases:**  SQLite
+**Tools:** Git, GitHub, VS Code, Power BI etc.
+
+---
+
+### 🚧 What am I currently working on?
+- Developing personal projects to deepen full‑stack skills
+- Exploring better ways to structure projects, document work, and plan with agile methods
+
+---
+
+### 📫 Get in touch 
+Always happy to collaborate or get feedback!
+- LinkedIn: 
+
+---
+
+> _“Turning ideas into code. Learning something new every day.”_
